@@ -1,0 +1,8 @@
+{
+  "name": "nfc-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "c9c08b8c"
+}
